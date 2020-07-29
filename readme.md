@@ -3,6 +3,6 @@
 - To edit the crontab entries, run the command:
 `crontab -e`
 
-- Helpful link to understand the syntax: https://crontab.guru/#0_9-18_*_*_1-5
+- Helpful link to understand the syntax: https://crontab.guru
 
-Repo backed up at: 
+Repo backed up at: https://github.com/Hardhik/macCronJobs
